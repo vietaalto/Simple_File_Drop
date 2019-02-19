@@ -2,9 +2,9 @@
 
 ## Description
 
-The app built in Flask, which is quite popular web framework in Python
+The app built in Flask, which is quite popular web framework in Python. The source code in "app.py"
 
-There is UI written in JS to handle Drag and Drop
+There is UI written in JS to handle Drag and Drop. The UI files in "static" folder
 
 ## Database
 
